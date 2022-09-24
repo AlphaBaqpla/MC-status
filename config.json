@@ -1,0 +1,19 @@
+{
+	"updTime": 60,
+	"timeZoneH": 1,
+	"timeZoneM": 0,
+	"twofor": true,
+
+	"token" : "",
+	"statusChannel" : "",
+
+	"server_type" : "minecraftbe",
+	"server_host" : "far-lands.top",
+	"server_port" : "19132",
+
+	"server_title" : "",
+	"server_name" : "",
+
+	"server_color" : "#42f5f5",
+	"server_enable_graph" : true
+}
