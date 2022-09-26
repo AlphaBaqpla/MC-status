@@ -2,7 +2,7 @@
 const {Client, MessageEmbed, Intents, MessageActionRow, MessageButton} = require('discord.js')
 const client = new Client({
 	messageEditHistoryMaxSize: 0,
-	intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]
+	intents: [32767]
 })
 var config = require('./config.json')
 const QuickChart = require('quickchart-js')
