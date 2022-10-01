@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^13.11.0",
+    "dotenv": "^16.0.2",
+    "gamedig": "^4.0.5",
+    "quickchart-js": "^3.1.0"
+  }
+}
